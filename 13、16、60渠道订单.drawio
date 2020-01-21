@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-21T01:37:14.830Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="QK7pAynuBoVXX8rlXbiD" version="12.5.5" type="github">
+<mxfile host="www.draw.io" modified="2020-01-21T01:45:53.291Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="K1red3Tcn8sfZbCtB1nw" version="12.5.5" type="github">
   <diagram id="sqfs2KqlwmEzGdgoe-A-" name="Page-1">
     <mxGraphModel dx="2500" dy="2055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,7 +29,7 @@
         <mxCell id="i5p5_z7_hdPg-JXtg60M-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vy7Fm9Duxz5r3z1LCzuk-5" target="vy7Fm9Duxz5r3z1LCzuk-6">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="vy7Fm9Duxz5r3z1LCzuk-5" value="正单处理逻辑（判断单据类型为0）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="vy7Fm9Duxz5r3z1LCzuk-5" value="正常商品处理逻辑（判断单据类型为0）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="100" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="vy7Fm9Duxz5r3z1LCzuk-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vy7Fm9Duxz5r3z1LCzuk-6" edge="1">
