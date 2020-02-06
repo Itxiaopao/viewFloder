@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-05T13:27:29.241Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36" etag="TB6wktmI42AT3AmbbunN" version="12.6.5" type="github">
+<mxfile host="www.draw.io" modified="2020-02-06T00:52:14.448Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36" etag="DAFxoPIvM2z163X0y9Bs" version="12.6.5" type="github">
   <diagram id="ViuxsVs0jhdlv3zUoUvD" name="Page-1">
-    <mxGraphModel dx="1221" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -108,8 +108,13 @@
         <mxCell id="weVdjqVGFAg4G8JXfVWF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="weVdjqVGFAg4G8JXfVWF-6" target="KdRfdlikvtDpbyzAhevV-24">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="weVdjqVGFAg4G8JXfVWF-6" value="&lt;span style=&quot;white-space: normal&quot;&gt;是否存在z的绑定关系链&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="weVdjqVGFAg4G8JXfVWF-6" value="&lt;span style=&quot;white-space: normal&quot;&gt;是否存在的绑定关系链&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="90" width="135" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="weVdjqVGFAg4G8JXfVWF-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="weVdjqVGFAg4G8JXfVWF-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="970" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
         <mxCell id="weVdjqVGFAg4G8JXfVWF-13" value="binding_relation" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=17;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="190" y="610" width="160" height="196" as="geometry"/>
@@ -140,6 +145,11 @@
             <Array as="points">
               <mxPoint x="550" y="570"/>
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="weVdjqVGFAg4G8JXfVWF-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="weVdjqVGFAg4G8JXfVWF-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="970" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="weVdjqVGFAg4G8JXfVWF-29" value="award_table" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;fontSize=14;" vertex="1" parent="1">
